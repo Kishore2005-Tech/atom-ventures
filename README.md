@@ -10,7 +10,7 @@
 
 ## 🚀 Overview
 
-**Atom Ventures** is an intelligent platform that bridges the gap between early-stage startups and forward-thinking investors. Powered by AI, it automates startup discovery, evaluates investment potential, and delivers curated deal flow — all in one unified workspace.
+Atom Ventures is an intelligent platform that bridges the gap between early-stage startups and forward-thinking investors. Powered by AI, it automates startup discovery, evaluates investment potential, and delivers curated deal flow — all in one unified workspace.
 
 Whether you're a VC firm, angel investor, or accelerator, Atom Ventures transforms how you find and evaluate the next big idea.
 

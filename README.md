@@ -141,7 +141,7 @@ IMAGEKIT_URL_ENDPOINT=your_imagekit_endpoint
 
 ## 📸 Screenshots
 
-> *(Add screenshots or GIF demo here)*
+> (Add screenshots or GIF demo here)
 
 ```
 /docs/screenshots/dashboard.png

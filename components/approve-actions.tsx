@@ -18,7 +18,7 @@ import { AiAnalysisCard } from "@/components/ai-analysis-card"
 
 export function ApproveActions({ startup }: { startup: Startup }) {
  const router = useRouter()
- 
+ const [busy, setBusy] = useState(false)
  
 
  

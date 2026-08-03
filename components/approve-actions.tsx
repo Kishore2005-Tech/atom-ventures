@@ -34,7 +34,7 @@ import { AiAnalysisCard } from "@/components/ai-analysis-card"
     router.refresh()
   }
 
-  async function runAi() {
+
     setBusy(true)
     const res = await fetch("/api/ai/score", {
       method: "POST",

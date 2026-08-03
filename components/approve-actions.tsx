@@ -19,7 +19,7 @@ import { AiAnalysisCard } from "@/components/ai-analysis-card"
 
  
  
-  const [open, setOpen] = useState(false)
+ 
 
   async function setStatus(status: "approved" | "rejected") {
     setBusy(true)

@@ -17,7 +17,7 @@ import type { Startup } from "@/lib/types"
 import { AiAnalysisCard } from "@/components/ai-analysis-card"
 
 
-  const router = useRouter()
+ 
   const [busy, setBusy] = useState(false)
   const [open, setOpen] = useState(false)
 

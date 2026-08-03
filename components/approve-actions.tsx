@@ -37,9 +37,9 @@ export function ApproveActions({ startup }: { startup: Startup }) {
   async function runAi() {
    setBusy(true)
     const res = await fetch("/api/ai/score", {
-     
-      
-      
+     method: "POST",
+     headers: { "Content-Type": "application/json" },
+     body: JSON.stringify({ startupId: startup.id }),
     })
     setBusy(false)
     if (!res.ok) {

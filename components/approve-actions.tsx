@@ -35,8 +35,7 @@ import { AiAnalysisCard } from "@/components/ai-analysis-card"
   }
 
 
-    setBusy(true)
-    const res = await fetch("/api/ai/score", {
+   
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ startupId: startup.id }),

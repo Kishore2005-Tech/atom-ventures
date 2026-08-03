@@ -17,7 +17,7 @@ import type { Startup } from "@/lib/types"
 import { AiAnalysisCard } from "@/components/ai-analysis-card"
 
 export function ApproveActions({ startup }: { startup: Startup }) {
- 
+ const router = useRouter()
  
  
 

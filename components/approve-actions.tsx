@@ -36,7 +36,7 @@ import { AiAnalysisCard } from "@/components/ai-analysis-card"
 
 
    
-      method: "POST",
+     
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ startupId: startup.id }),
     })

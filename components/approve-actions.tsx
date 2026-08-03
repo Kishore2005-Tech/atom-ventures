@@ -34,8 +34,8 @@ export function ApproveActions({ startup }: { startup: Startup }) {
     router.refresh()
   }
 
-
-   
+  async function runAi() {
+  
      
       
       

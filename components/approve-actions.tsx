@@ -24,7 +24,7 @@ import { AiAnalysisCard } from "@/components/ai-analysis-card"
  
     setBusy(true)
     const supabase = createClient()
-    const { error } = await supabase.from("startups").update({ status }).eq("id", startup.id)
+    
     setBusy(false)
     if (error) {
       toast.error(error.message)

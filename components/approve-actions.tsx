@@ -16,7 +16,7 @@ import { toast } from "sonner"
 import type { Startup } from "@/lib/types"
 import { AiAnalysisCard } from "@/components/ai-analysis-card"
 
-export function ApproveActions({ startup }: { startup: Startup }) {
+
   const router = useRouter()
   const [busy, setBusy] = useState(false)
   const [open, setOpen] = useState(false)

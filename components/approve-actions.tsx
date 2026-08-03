@@ -37,7 +37,7 @@ import { AiAnalysisCard } from "@/components/ai-analysis-card"
 
    
      
-      headers: { "Content-Type": "application/json" },
+      
       body: JSON.stringify({ startupId: startup.id }),
     })
     setBusy(false)

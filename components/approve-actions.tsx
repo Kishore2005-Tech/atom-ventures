@@ -35,7 +35,8 @@ export function ApproveActions({ startup }: { startup: Startup }) {
   }
 
   async function runAi() {
-  
+   setBusy(true)
+    const res = await fetch("/api/ai/score", {
      
       
       

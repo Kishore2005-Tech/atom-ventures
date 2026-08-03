@@ -21,7 +21,7 @@ export function ApproveActions({ startup }: { startup: Startup }) {
  const [busy, setBusy] = useState(false)
  const [open, setOpen] = useState(false)
 
- 
+ async function setStatus(status: "approved" | "rejected") {
     setBusy(true)
     const supabase = createClient()
     

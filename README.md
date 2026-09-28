@@ -185,7 +185,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Kishore — [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Kishore** — [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
 

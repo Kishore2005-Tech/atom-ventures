@@ -70,7 +70,7 @@ atom-ventures/
 - MongoDB (local or Atlas)
 - OpenAI API key
 
-## Installation
+### Installation
 
 ```bash
 # 1. Clone the repository
@@ -92,7 +92,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 
 ---
 
-# 🔐 Environment Variables
+## 🔐 Environment Variables
 
 Create a `.env.local` file in the root directory:
 

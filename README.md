@@ -1,6 +1,6 @@
 # ⚛️ Atom Ventures
 
-> **AI-Powered Startup Discovery & Investment Platform**
+> **AI-Powered Startup Discovery & Investment Platform
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()

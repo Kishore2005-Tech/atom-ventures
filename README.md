@@ -25,7 +25,7 @@ Whether you're a VC firm, angel investor, or accelerator, Atom Ventures transfor
 | 🧠 **Smart Deal Flow** | Personalized recommendations aligned with your investment thesis |
 | 📈 **Market Intelligence** | Real-time trend analysis across sectors and geographies |
 | 🤝 **Startup Profiles** | Structured founder profiles, pitch decks, and traction metrics |
-| 🔔 **Alerts & Watchlists | Monitor startups and get notified on key milestones |
+| 🔔 **Alerts & Watchlists** | Monitor startups and get notified on key milestones |
 
 ---
 

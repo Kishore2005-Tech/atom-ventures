@@ -21,7 +21,7 @@ Whether you're a VC firm, angel investor, or accelerator, Atom Ventures transfor
 | Feature | Description |
 |---|---|
 | 🔍 **AI Startup Discovery | Scrapes and surfaces high-potential startups across ecosystems |
-| 📊 **Investment Scoring** | AI-driven scoring models based on traction, team, market size, and more |
+| 📊 **Investment Scoring | AI-driven scoring models based on traction, team, market size, and more |
 | 🧠 **Smart Deal Flow** | Personalized recommendations aligned with your investment thesis |
 | 📈 **Market Intelligence** | Real-time trend analysis across sectors and geographies |
 | 🤝 **Startup Profiles** | Structured founder profiles, pitch decks, and traction metrics |

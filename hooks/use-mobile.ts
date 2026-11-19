@@ -12,7 +12,7 @@ const MOBILE_BREAKPOINT = 768
     }
     mql.addEventListener('change', onChange)
     
-    return () => mql.removeEventListener('change', onChange)
+    
   }, [])
 
   return !!isMobile

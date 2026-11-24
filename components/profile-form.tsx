@@ -79,7 +79,7 @@ export function ProfileForm({ profile }: { profile: Profile }) {
             placeholder="AI, Climate, Fintech"
           />
         </div>
-        
+        <Button type="submit" disabled={saving} className="self-start">
           {saving ? "Saving…" : "Save changes"}
         </Button>
       </div>

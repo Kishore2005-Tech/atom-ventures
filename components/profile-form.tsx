@@ -14,7 +14,7 @@ import type { Profile } from "@/lib/types"
 
 export function ProfileForm({ profile }: { profile: Profile }) {
   const router = useRouter()
- 
+  const [fullName, setFullName] = useState(profile.full_name ?? "")
   const [company, setCompany] = useState(profile.company ?? "")
   const [bio, setBio] = useState(profile.bio ?? "")
   const [interests, setInterests] = useState((profile.interests ?? []).join(", "))
